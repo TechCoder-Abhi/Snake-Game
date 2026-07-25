@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-labelledby="title desc">
+  <title id="title">Snake Game gameplay preview</title>
+  <desc id="desc">A stylized clickable preview for the gameplay video.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#151b29"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e6ff4a"/>
+      <stop offset="100%" stop-color="#8df0a9"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="540" rx="32" fill="url(#bg)"/>
+  <g opacity="0.18" stroke="#8df0a9" stroke-width="1">
+    <path d="M0 60H960M0 120H960M0 180H960M0 240H960M0 300H960M0 360H960M0 420H960M0 480H960"/>
+    <path d="M60 0V540M120 0V540M180 0V540M240 0V540M300 0V540M360 0V540M420 0V540M480 0V540M540 0V540M600 0V540M660 0V540M720 0V540M780 0V540M840 0V540M900 0V540"/>
+  </g>
+  <rect x="84" y="74" width="792" height="392" rx="28" fill="rgba(6,8,12,0.76)" stroke="rgba(141,240,169,0.38)" stroke-width="3"/>
+  <circle cx="196" cy="188" r="58" fill="url(#glow)" opacity="0.16"/>
+  <circle cx="768" cy="354" r="66" fill="#ff4444" opacity="0.16"/>
+  <polygon points="480,196 545,305 415,305" fill="url(#glow)" opacity="0.95"/>
+  <circle cx="480" cy="250" r="86" fill="none" stroke="rgba(141,240,169,0.65)" stroke-width="6"/>
+  <text x="480" y="392" text-anchor="middle" fill="#f3f7ff" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="42" font-weight="700">Snake Game Gameplay</text>
+  <text x="480" y="430" text-anchor="middle" fill="#8df0a9" font-family="Trebuchet MS, Segoe UI, sans-serif" font-size="22">Click to open the demo video</text>
+</svg>

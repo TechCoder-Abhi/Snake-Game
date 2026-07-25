@@ -6,8 +6,12 @@ A classic snake game built with vanilla JavaScript, HTML, and CSS. Control the s
 ## Gameplay Media
 
 <p align="center">
-  <video src="assets/gameplay.mp4" controls width="480"></video>
+  <a href="assets/gameplay.mp4">
+    <img src="assets/gameplay-preview.svg" alt="Snake gameplay preview" width="640" />
+  </a>
 </p>
+
+Click the preview to open the gameplay video.
 
 
 ## Features
