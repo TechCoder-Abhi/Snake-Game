@@ -3,6 +3,13 @@
 A classic snake game built with vanilla JavaScript, HTML, and CSS. Control the snake, eat food, grow longer, and try to beat your high score without hitting the walls or yourself!
 
 
+## Gameplay Media
+
+<p align="center">
+  <video src="assets/gameplay.mp4" controls width="480"></video>
+</p>
+
+
 ## Features
 
 -  **Dynamic Speed**: Snake gets faster as you eat more food
